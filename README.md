@@ -26,7 +26,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Contents
 - [Where to Start](#where-to-start)
-- [Romhacking's Subfields](#subfields)
+- [Subfields](#subfields)
 - [Consoles](#consoles)
 - [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
   - [General Communities](#general-communities)
