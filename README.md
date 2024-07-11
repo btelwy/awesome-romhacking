@@ -30,6 +30,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
   - [Text Editing and Translation](#text-editing-and-translation)
   - [Graphics Editing](#graphics-editing)
   - [Music Editing](#music-editing)
+  - [Cheat Codes](#cheat-codes)
 - [Consoles](#consoles)
   - [Game Boy (GB)](#game-boy-gb)
   - [Game Boy Advance (GBA)](#game-boy-advance-gba)
@@ -69,13 +70,14 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Where to Start
 - [Getting Started](https://www.romhacking.net/start/)
-- [GBA and DS Romhacking Guide (2016 Edition)](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/)
-- [The Definitive Guide to Romhacking for Complete Beginners](https://www.scribd.com/document/383812637/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners)
+- [GBA and DS Romhacking Guide (2016 Edition)](Media/romhacking2016.pdf)
+- [The Definitive Guide to Romhacking for Complete Beginners](Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf)
 
 ## Subfields
 ### Text Editing and Translation
 ### Graphics Editing
 ### Music Editing
+### Cheat Codes
 
 ## Consoles
 ### Game Boy (GB)
@@ -122,6 +124,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### MIPS
 
 ## Reverse Engineering
+- [Reversing: Secrets of Reverse Engineering](Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf)
 
 ## Tools
 ### Patchers
