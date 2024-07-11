@@ -2,11 +2,9 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
-
 # Awesome Romhacking
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
+[![CI](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
 
 <!-- subtitle -->
 
@@ -27,27 +25,24 @@ Romhacking is the practice of editing a video game's code — located in its *re
 <!-- TOC -->
 
 ## Contents
-
-- [Awesome Romhacking](#awesome-romhacking)
-  - [Contents](#contents)
-  - [Where to Start](#where-to-start)
-  - [Romhacking's Subfields](#romhackings-subfields)
-  - [Consoles](#consoles)
-  - [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
-    - [General Communities](#general-communities)
-    - [Game-Specific Communities](#game-specific-communities)
-  - [Assembly](#assembly)
-    - [6502](#6502)
-    - [65816](#65816)
-    - [ARM](#arm)
-    - [MIPS](#mips)
-  - [Tools](#tools)
-    - [Patchers](#patchers)
-    - [Debugging Emulators](#debugging-emulators)
-    - [Translation](#translation)
-  - [Follow](#follow)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Where to Start](#where-to-start)
+- [Romhacking's Subfields](#subfields)
+- [Consoles](#consoles)
+- [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
+  - [General Communities](#general-communities)
+  - [Game-Specific Communities](#game-specific-communities)
+- [Assembly](#assembly)
+  - [6502](#6502)
+  - [65816](#65816)
+  - [ARM](#arm)
+  - [MIPS](#mips)
+- [Tools](#tools)
+  - [Patchers](#patchers)
+  - [Debugging Emulators](#debugging-emulators)
+  - [Translation](#translation)
+- [Follow](#follow)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -56,7 +51,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 - [GBA and DS Romhacking Guide (2016 Edition)](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/)
 - [The Definitive Guide to Romhacking for Complete Beginners](https://www.scribd.com/document/383812637/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners)
 
-## Romhacking's Subfields
+## Subfields
 
 ## Consoles
 Game Boy (GB)
