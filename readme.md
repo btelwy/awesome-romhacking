@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Romhacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# awesome-romhacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -18,7 +18,7 @@ A community-sourced list of resources for all your romhacking needs!
 
 <!-- description -->
 
-Romhacking is the practice of editing a video game's code — its *read-only memory*, or *ROM* — in order to modify the game in a desired way.
+Romhacking is the practice of editing a video game's code — located in its *read-only memory*, or *ROM* — in order to modify the game in a desired way.
 
 </div>
 
@@ -26,23 +26,88 @@ Romhacking is the practice of editing a video game's code — its *read-only mem
 
 ## Contents
 
-- [Awesome Romhacking  ](#awesome-romhacking--)
+- [awesome-romhacking  ](#awesome-romhacking--)
   - [Contents](#contents)
-  - [Featured (new releases)](#featured-new-releases)
-  - [Section 1](#section-1)
+  - [Where to Start](#where-to-start)
+  - [Romhacking's Subfields](#romhackings-subfields)
+  - [Consoles](#consoles)
+  - [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
+    - [General Communities](#general-communities)
+    - [Game-Specific Communities](#game-specific-communities)
+  - [Assembly](#assembly)
+    - [6502](#6502)
+    - [65816](#65816)
+    - [ARM](#arm)
+    - [MIPS](#mips)
+  - [Tools](#tools)
+    - [Patchers](#patchers)
+    - [Debugging Emulators](#debugging-emulators)
+    - [Translation](#translation)
   - [Follow](#follow)
   - [Contributing](#contributing)
     - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Where to Start
+- [Getting Started](https://www.romhacking.net/start/)
+- [GBA and DS Romhacking Guide (2016 Edition)](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/)
+- [The Definitive Guide to Romhacking for Complete Beginners](https://www.scribd.com/document/383812637/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+## Romhacking's Subfields
 
-## Section 1
+## Consoles
+Game Boy (GB)
+Game Boy Advance (GBA)
+Nintendo Entertainment System (NES)
+Nintendo 64 (N64)
+Nintendo DS (NDS)
+Nintendo GameCube (GCN)
+PlayStation (PS1/PSX)
+PlayStation 2 (PS2)
+PlayStation 3 (PS3)
+PlayStation 4 (PS4)
+PlayStation Portable (PSP)
+Sega Dreamcast
+Sega Saturn
+Super Nintendo Entertainment System (SNES)
+Wii
+Wii U
+Xbox
+Xbox 360
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+## Places to Share or Find Romhacks
+### General Communities
+- [Romhacking Dot Net (RHDN)](romhacking.net)
+- [Romhacks](romhacks.org)
+- [Romhack Hispano](romhackhispano.org)
+- [GBATemp Forums](gbatemp.net)
+- [Game Banana](gamebanana.com)
+- [r/romhacking](reddit.com/r/romhacking/)
+- [r/RomHacks](reddit.com/r/RomHacks/)
+
+### Game-Specific Communities
+- [Super Mario World Central](smwcentral.net)
+- [Metroid Construction](metroidconstruction.com)
+- [GBA Hacks](gbahacks.com)
+- [Pokecommunity Forums](pokecommunity.com)
+- [r/PokemonROMhacks](reddit.com/r/PokemonROMhacks/)
+- [Doomworld](doomworld.com)
+
+## Assembly
+### 6502
+### 65816
+### ARM
+### MIPS
+
+## Tools
+### Patchers
+- [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js/)
+- [XDelta](https://www.romhacking.net/utilities/598/)
+### Debugging Emulators
+- [no$gba](https://problemkaputt.de/gba-dev.htm)
+### Translation
+- [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
 
 <!-- END CONTENT -->
 
@@ -50,7 +115,7 @@ Romhacking is the practice of editing a video game's code — its *read-only mem
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+(fill this in)
 
 ## Contributing
 
@@ -59,33 +124,3 @@ Who else should we be following!?
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/btelwy/awesome-romhacking/graphs/contributors)!
-
-
-
-Table of Contents:
-
-
-Tools:
-https://github.com/FanTranslatorsInternational/Kuriimu2
-
-
-
-Places to find or upload romhacks:
-romhacking.net (RHDN)
-smwcentral.net
-metroidconstruction.com
-gbahacks.com
-pokecommunity.com
-doomworld.com
-romhacking.com
-romhacks.org
-gamebanana.com
-gbatemp.net
-romhackhispano.org
-
-Subreddits:
-r/romhacking
-r/RomHacks
-r/PokemonROMhacks
-
-Discord servers:
