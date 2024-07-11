@@ -4,7 +4,9 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Romhacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
+# Awesome Romhacking
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
 
 <!-- subtitle -->
 
@@ -18,7 +20,7 @@ A list of resources for all your romhacking needs!
 
 <!-- description -->
 
-Romhacking is the practice of editing a video game's code — located in its *read-only memory*, or *ROM* — in order to modify the game in a desired way.
+Romhacking is the practice of editing a video game's code — located in its *read-only memory*, or *ROM* — in order to modify the game.
 
 </div>
 
@@ -26,7 +28,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Contents
 
-- [Awesome Romhacking  ](#awesome-romhacking--)
+- [Awesome Romhacking](#awesome-romhacking)
   - [Contents](#contents)
   - [Where to Start](#where-to-start)
   - [Romhacking's Subfields](#romhackings-subfields)
