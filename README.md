@@ -27,22 +27,43 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ## Contents
 - [Where to Start](#where-to-start)
 - [Subfields](#subfields)
+  - [Text Editing and Translation](#text-editing-and-translation)
+  - [Graphics Editing](#graphics-editing)
+  - [Music Editing](#music-editing)
 - [Consoles](#consoles)
+  - [Game Boy (GB)](#game-boy-gb)
+  - [Game Boy Advance (GBA)](#game-boy-advance-gba)
+  - [Nintendo Entertainment System (NES)](#nintendo-entertainment-system-nes)
+  - [Nintendo 64 (N64)](#nintendo-64-n64)
+  - [Nintendo DS (NDS)](#nintendo-ds-nds)
+  - [Nintendo GameCube (GCN)](#nintendo-gamecube-gcn)
+  - [PlayStation (PS1/PSX)](#playstation-ps1psx)
+  - [PlayStation 2 (PS2)](#playstation-2-ps2)
+  - [PlayStation 3 (PS3)](#playstation-3-ps3)
+  - [PlayStation 4 (PS4)](#playstation-4-ps4)
+  - [PlayStation Portable (PSP)](#playstation-portable-psp)
+  - [Sega Dreamcast](#sega-dreamcast)
+  - [Sega Saturn](#sega-saturn)
+  - [Super Nintendo Entertainment System (SNES)](#super-nintendo-entertainment-system-snes)
+  - [Wii](#wii)
+  - [Wii U](#wii-u)
+  - [Xbox](#xbox)
+  - [Xbox 360](#xbox-360)
 - [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
   - [General Communities](#general-communities)
   - [Game-Specific Communities](#game-specific-communities)
-- [Assembly](#assembly)
+- [Assembly (ASM) Languages](#assembly-asm-languages)
   - [6502](#6502)
   - [65816](#65816)
   - [ARM](#arm)
   - [MIPS](#mips)
+- [Reverse Engineering](#reverse-engineering)
 - [Tools](#tools)
   - [Patchers](#patchers)
   - [Debugging Emulators](#debugging-emulators)
+  - [Reverse Engineering Frameworks](#reverse-engineering-frameworks)
   - [Translation](#translation)
 - [Follow](#follow)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -52,26 +73,29 @@ Romhacking is the practice of editing a video game's code — located in its *re
 - [The Definitive Guide to Romhacking for Complete Beginners](https://www.scribd.com/document/383812637/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners)
 
 ## Subfields
+### Text Editing and Translation
+### Graphics Editing
+### Music Editing
 
 ## Consoles
-Game Boy (GB)
-Game Boy Advance (GBA)
-Nintendo Entertainment System (NES)
-Nintendo 64 (N64)
-Nintendo DS (NDS)
-Nintendo GameCube (GCN)
-PlayStation (PS1/PSX)
-PlayStation 2 (PS2)
-PlayStation 3 (PS3)
-PlayStation 4 (PS4)
-PlayStation Portable (PSP)
-Sega Dreamcast
-Sega Saturn
-Super Nintendo Entertainment System (SNES)
-Wii
-Wii U
-Xbox
-Xbox 360
+### Game Boy (GB)
+### Game Boy Advance (GBA)
+### Nintendo Entertainment System (NES)
+### Nintendo 64 (N64)
+### Nintendo DS (NDS)
+### Nintendo GameCube (GCN)
+### PlayStation (PS1/PSX)
+### PlayStation 2 (PS2)
+### PlayStation 3 (PS3)
+### PlayStation 4 (PS4)
+### PlayStation Portable (PSP)
+### Sega Dreamcast
+### Sega Saturn
+### Super Nintendo Entertainment System (SNES)
+### Wii
+### Wii U
+### Xbox
+### Xbox 360
 
 ## Places to Share or Find Romhacks
 ### General Communities
@@ -91,11 +115,13 @@ Xbox 360
 - [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks)
 - [Doomworld](https://www.doomworld.com)
 
-## Assembly
+## Assembly (ASM) Languages
 ### 6502
 ### 65816
 ### ARM
 ### MIPS
+
+## Reverse Engineering
 
 ## Tools
 ### Patchers
@@ -103,6 +129,9 @@ Xbox 360
 - [XDelta](https://www.romhacking.net/utilities/598)
 ### Debugging Emulators
 - [no$gba](https://problemkaputt.de/gba-dev.htm)
+### Reverse Engineering Frameworks
+- [Ghidra](https://ghidra-sre.org)
+- [IDA Free](https://hex-rays.com/ida-free)
 ### Translation
 - [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
 
@@ -115,9 +144,7 @@ Xbox 360
 (fill this in)
 
 ## Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/btelwy/awesome-romhacking/graphs/contributors)!
