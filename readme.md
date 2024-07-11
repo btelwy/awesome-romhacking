@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Romhacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/lint.yaml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/lint.yaml)
+# Awesome Romhacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
 
 <!-- subtitle -->
 
-A community-sourced list of resources for all your romhacking needs!
+A list of resources for all your romhacking needs!
 
 <!-- image -->
 
@@ -78,21 +78,21 @@ Xbox 360
 
 ## Places to Share or Find Romhacks
 ### General Communities
-- [Romhacking Dot Net (RHDN)](romhacking.net)
-- [Romhacks](romhacks.org)
-- [Romhack Hispano](romhackhispano.org)
-- [GBATemp Forums](gbatemp.net)
-- [Game Banana](gamebanana.com)
-- [r/romhacking](reddit.com/r/romhacking/)
-- [r/RomHacks](reddit.com/r/RomHacks/)
+- [Romhacking Dot Net (RHDN)](https://www.romhacking.net)
+- [Romhacks](https://www.romhacks.org)
+- [Romhack Hispano](https://www.romhackhispano.org)
+- [GBATemp Forums](https://www.gbatemp.net)
+- [Game Banana](https://www.gamebanana.com)
+- [r/romhacking](https://www.reddit.com/r/romhacking)
+- [r/RomHacks](https://www.reddit.com/r/RomHacks)
 
 ### Game-Specific Communities
-- [Super Mario World Central](smwcentral.net)
-- [Metroid Construction](metroidconstruction.com)
-- [GBA Hacks](gbahacks.com)
-- [Pokecommunity Forums](pokecommunity.com)
-- [r/PokemonROMhacks](reddit.com/r/PokemonROMhacks/)
-- [Doomworld](doomworld.com)
+- [Super Mario World Central](https://smwcentral.net)
+- [Metroid Construction](https://metroidconstruction.com)
+- [GBA Hacks](https://www.gbahacks.com)
+- [Pokecommunity Forums](https://www.pokecommunity.com)
+- [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks)
+- [Doomworld](https://www.doomworld.com)
 
 ## Assembly
 ### 6502
@@ -102,8 +102,8 @@ Xbox 360
 
 ## Tools
 ### Patchers
-- [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js/)
-- [XDelta](https://www.romhacking.net/utilities/598/)
+- [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js)
+- [XDelta](https://www.romhacking.net/utilities/598)
 ### Debugging Emulators
 - [no$gba](https://problemkaputt.de/gba-dev.htm)
 ### Translation
