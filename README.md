@@ -25,52 +25,18 @@ Romhacking is the practice of editing a video game's code — located in its *re
 <!-- TOC -->
 
 ## Contents
-- [Where to Start](#where-to-start)
-- [Subfields](#subfields)
-  - [Text Editing and Translation](#text-editing-and-translation)
-  - [Graphics Editing](#graphics-editing)
-  - [Music Editing](#music-editing)
-  - [Cheat Codes](#cheat-codes)
-- [Consoles](#consoles)
-  - [Game Boy](#game-boy)
-  - [Game Boy Advance](#game-boy-advance)
-  - [Nintendo Entertainment System](#nintendo-entertainment-system)
-  - [Nintendo 64](#nintendo-64)
-  - [Nintendo DS](#nintendo-ds)
-  - [Nintendo GameCube](#nintendo-gamecube)
-  - [PlayStation](#playstation)
-  - [PlayStation 2](#playstation-2)
-  - [PlayStation 3](#playstation-3)
-  - [PlayStation Portable](#playstation-portable)
-  - [Sega Dreamcast](#sega-dreamcast)
-  - [Sega Genesis](#sega-genesis)
-  - [Sega Master System](#sega-master-system)
-  - [Sega Saturn](#sega-saturn)
-  - [Super Nintendo Entertainment System](#super-nintendo-entertainment-system)
-  - [Wii](#wii)
-  - [Wii U](#wii-u)
-  - [Xbox](#xbox)
-  - [Xbox 360](#xbox-360)
-- [Places to Share or Find Romhacks](#places-to-share-or-find-romhacks)
-  - [General Communities](#general-communities)
-  - [Game-Specific Communities](#game-specific-communities)
-- [Assembly (ASM) Languages](#assembly-asm-languages)
-  - [6502](#6502)
-  - [65816](#65816)
-  - [ARM](#arm)
-  - [MIPS](#mips)
-  - [PowerPC](#powerpc)
-- [Reverse Engineering](#reverse-engineering)
-- [Tools](#tools)
-  - [Patchers](#patchers)
-  - [Debugging Emulators](#debugging-emulators)
-  - [Reverse Engineering Frameworks](#reverse-engineering-frameworks)
-  - [Translation](#translation)
+* [Where to Start](#where-to-start)
+* [Subfields](#subfields)
+* [Consoles](#consoles)
+* [Assembly (ASM) Languages](#assembly-asm-languages)
+* [Reverse Engineering](#reverse-engineering)
+* [Tools](#tools)
+* [Community](#community)
 
 <!-- CONTENT -->
 
 ## Where to Start
-- [Getting Started](https://www.romhacking.net/start/)
+- [Getting Started](https://www.romhacking.net/start/) - Romhacking Dot Net's page for beginners looking to get started.
 - [GBA and DS Romhacking Guide (2016 Edition)](Media/romhacking2016.pdf)
 - [The Definitive Guide to Romhacking for Complete Beginners](Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf)
 
@@ -83,11 +49,11 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ## Consoles
 ### Game Boy
 ### Game Boy Advance
-- [GBATEK](https://problemkaputt.de/gbatek.htm)
+- [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical description of the GBA's hardware and software. Almost always more than comprehensive enough.
 ### Nintendo Entertainment System
 ### Nintendo 64
 ### Nintendo DS
-- [GBATEK](https://problemkaputt.de/gbatek.htm)
+- [GBATEK](https://problemkaputt.de/gbatek.htm) - Also technical description of the DS's hardware and software. If it's not here, you probably won't need to know it.
 ### Nintendo GameCube
 ### PlayStation
 ### PlayStation 2
@@ -102,23 +68,6 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Wii U
 ### Xbox
 ### Xbox 360
-
-## Places to Share or Find Romhacks
-### General Communities
-- [Romhacking Dot Net (RHDN)](https://www.romhacking.net)
-- [Romhacks](https://www.romhacks.org)
-- [Romhack Hispano](https://www.romhackhispano.org)
-- [GBATemp Forums](https://www.gbatemp.net)
-- [Game Banana](https://www.gamebanana.com)
-- [r/romhacking](https://www.reddit.com/r/romhacking)
-- [r/RomHacks](https://www.reddit.com/r/RomHacks)
-### Game-Specific Communities
-- [Super Mario World Central](https://smwcentral.net)
-- [Metroid Construction](https://metroidconstruction.com)
-- [GBA Hacks](https://www.gbahacks.com)
-- [Pokecommunity Forums](https://www.pokecommunity.com)
-- [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks)
-- [Doomworld](https://www.doomworld.com)
 
 ## Assembly (ASM) Languages
 ### 6502
@@ -141,6 +90,23 @@ Romhacking is the practice of editing a video game's code — located in its *re
 - [IDA Free](https://hex-rays.com/ida-free)
 ### Translation
 - [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
+
+## Community
+### General Communities
+- [Romhacking Dot Net (RHDN)](https://www.romhacking.net)
+- [Romhacks](https://www.romhacks.org)
+- [Romhack Hispano](https://www.romhackhispano.org)
+- [GBATemp Forums](https://www.gbatemp.net)
+- [Game Banana](https://www.gamebanana.com)
+- [r/romhacking](https://www.reddit.com/r/romhacking)
+- [r/RomHacks](https://www.reddit.com/r/RomHacks)
+### Game-Specific Communities
+- [Super Mario World Central](https://smwcentral.net)
+- [Metroid Construction](https://metroidconstruction.com)
+- [GBA Hacks](https://www.gbahacks.com)
+- [Pokecommunity Forums](https://www.pokecommunity.com)
+- [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks)
+- [Doomworld](https://www.doomworld.com)
 
 <!-- END CONTENT -->
 
