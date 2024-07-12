@@ -44,6 +44,8 @@ Romhacking is the practice of editing a video game's code — located in its *re
   - [PlayStation 4 (PS4)](#playstation-4-ps4)
   - [PlayStation Portable (PSP)](#playstation-portable-psp)
   - [Sega Dreamcast](#sega-dreamcast)
+  - [Sega Genesis](#sega-genesis)
+  - [Sega Master System](#sega-master-system)
   - [Sega Saturn](#sega-saturn)
   - [Super Nintendo Entertainment System (SNES)](#super-nintendo-entertainment-system-snes)
   - [Wii](#wii)
@@ -82,9 +84,11 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ## Consoles
 ### Game Boy (GB)
 ### Game Boy Advance (GBA)
+- [GBATEK](https://problemkaputt.de/gbatek.htm)
 ### Nintendo Entertainment System (NES)
 ### Nintendo 64 (N64)
 ### Nintendo DS (NDS)
+- [GBATEK](https://problemkaputt.de/gbatek.htm)
 ### Nintendo GameCube (GCN)
 ### PlayStation (PS1/PSX)
 ### PlayStation 2 (PS2)
@@ -92,6 +96,8 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### PlayStation 4 (PS4)
 ### PlayStation Portable (PSP)
 ### Sega Dreamcast
+### Sega Genesis
+### Sega Master System
 ### Sega Saturn
 ### Super Nintendo Entertainment System (SNES)
 ### Wii
