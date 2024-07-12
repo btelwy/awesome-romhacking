@@ -32,22 +32,21 @@ Romhacking is the practice of editing a video game's code — located in its *re
   - [Music Editing](#music-editing)
   - [Cheat Codes](#cheat-codes)
 - [Consoles](#consoles)
-  - [Game Boy (GB)](#game-boy-gb)
-  - [Game Boy Advance (GBA)](#game-boy-advance-gba)
-  - [Nintendo Entertainment System (NES)](#nintendo-entertainment-system-nes)
-  - [Nintendo 64 (N64)](#nintendo-64-n64)
-  - [Nintendo DS (NDS)](#nintendo-ds-nds)
-  - [Nintendo GameCube (GCN)](#nintendo-gamecube-gcn)
-  - [PlayStation (PS1/PSX)](#playstation-ps1psx)
-  - [PlayStation 2 (PS2)](#playstation-2-ps2)
-  - [PlayStation 3 (PS3)](#playstation-3-ps3)
-  - [PlayStation 4 (PS4)](#playstation-4-ps4)
-  - [PlayStation Portable (PSP)](#playstation-portable-psp)
+  - [Game Boy](#game-boy)
+  - [Game Boy Advance](#game-boy-advance)
+  - [Nintendo Entertainment System](#nintendo-entertainment-system)
+  - [Nintendo 64](#nintendo-64)
+  - [Nintendo DS](#nintendo-ds)
+  - [Nintendo GameCube](#nintendo-gamecube)
+  - [PlayStation](#playstation)
+  - [PlayStation 2](#playstation-2)
+  - [PlayStation 3](#playstation-3)
+  - [PlayStation Portable](#playstation-portable)
   - [Sega Dreamcast](#sega-dreamcast)
   - [Sega Genesis](#sega-genesis)
   - [Sega Master System](#sega-master-system)
   - [Sega Saturn](#sega-saturn)
-  - [Super Nintendo Entertainment System (SNES)](#super-nintendo-entertainment-system-snes)
+  - [Super Nintendo Entertainment System](#super-nintendo-entertainment-system)
   - [Wii](#wii)
   - [Wii U](#wii-u)
   - [Xbox](#xbox)
@@ -82,24 +81,23 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Cheat Codes
 
 ## Consoles
-### Game Boy (GB)
-### Game Boy Advance (GBA)
+### Game Boy
+### Game Boy Advance
 - [GBATEK](https://problemkaputt.de/gbatek.htm)
-### Nintendo Entertainment System (NES)
-### Nintendo 64 (N64)
-### Nintendo DS (NDS)
+### Nintendo Entertainment System
+### Nintendo 64
+### Nintendo DS
 - [GBATEK](https://problemkaputt.de/gbatek.htm)
-### Nintendo GameCube (GCN)
-### PlayStation (PS1/PSX)
-### PlayStation 2 (PS2)
-### PlayStation 3 (PS3)
-### PlayStation 4 (PS4)
-### PlayStation Portable (PSP)
+### Nintendo GameCube
+### PlayStation
+### PlayStation 2
+### PlayStation 3
+### PlayStation Portable
 ### Sega Dreamcast
 ### Sega Genesis
 ### Sega Master System
 ### Sega Saturn
-### Super Nintendo Entertainment System (SNES)
+### Super Nintendo Entertainment System
 ### Wii
 ### Wii U
 ### Xbox
@@ -114,7 +112,6 @@ Romhacking is the practice of editing a video game's code — located in its *re
 - [Game Banana](https://www.gamebanana.com)
 - [r/romhacking](https://www.reddit.com/r/romhacking)
 - [r/RomHacks](https://www.reddit.com/r/RomHacks)
-
 ### Game-Specific Communities
 - [Super Mario World Central](https://smwcentral.net)
 - [Metroid Construction](https://metroidconstruction.com)
@@ -149,6 +146,5 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Contributing
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
 ### Contributors
 [Thanks goes to these contributors](https://github.com/btelwy/awesome-romhacking/graphs/contributors)!
