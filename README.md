@@ -36,9 +36,9 @@ Romhacking is the practice of editing a video game's code — located in its *re
 <!-- CONTENT -->
 
 ## Where to Start
-- [Getting Started](https://www.romhacking.net/start/) - Romhacking Dot Net's page for beginners looking to get started.
-- [GBA and DS Romhacking Guide (2016 Edition)](Media/romhacking2016.pdf)
-- [The Definitive Guide to Romhacking for Complete Beginners](Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf)
+- [Getting Started](https://www.romhacking.net/start) - Romhacking Dot Net's page for beginners looking to get started.
+- [GBA and DS Romhacking Guide (2016 Edition)](https://github.com/btelwy/awesome-romhacking/blob/main/Media/romhacking2016.pdf)
+- [The Definitive Guide to Romhacking for Complete Beginners](https://github.com/btelwy/awesome-romhacking/blob/main/Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf)
 
 ## Subfields
 ### Text Editing and Translation
@@ -49,17 +49,20 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ## Consoles
 ### Game Boy
 ### Game Boy Advance
-- [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical description of the GBA's hardware and software. Almost always more than comprehensive enough.
+- [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical description of the GBA's hardware and software. If it's not here, you probably won't need to know it.
 ### Nintendo Entertainment System
+### Nintendo 3DS
+- [GBATEK](https://problemkaputt.de/gbatek.htm) - Contains limited technical information of the 3DS' hardware and software.
 ### Nintendo 64
 ### Nintendo DS
-- [GBATEK](https://problemkaputt.de/gbatek.htm) - Also technical description of the DS's hardware and software. If it's not here, you probably won't need to know it.
+- [GBATEK](https://problemkaputt.de/gbatek.htm) - Also technical description of the DS's hardware and software. Almost always more than comprehensive enough.
 ### Nintendo GameCube
 ### PlayStation
 ### PlayStation 2
 ### PlayStation 3
 ### PlayStation Portable
 ### Sega Dreamcast
+### Sega Game Gear
 ### Sega Genesis
 ### Sega Master System
 ### Sega Saturn
@@ -71,13 +74,26 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Assembly (ASM) Languages
 ### 6502
+*Used by the NES.*
 ### 65816
+*Used by the SNES.*
+### 68000
+*Used by the Genesis.*
+[68000 Assembly Programming for the Sega Genesis](https://www.chibiakumas.com/68000/genesis.php) - A detailed introduction to 68000 assembly.
 ### ARM
+*Used by the GBA, DS, and 3DS.*
 ### MIPS
+*Used by the PS1 and PS2.*
 ### PowerPC
+*Used by the GameCube, Wii, Wii U, and Xbox 360.*
+- [Wii Coding: Basic ASM](https://www.wiicoding.info/basic-asm) - Introduction to assembly using PowerPC.
+### x86
+*Used by the original Xbox.*
+### Z80
+*Used by the Master System and Game Gear; the Game Boy uses a modified version called GBZ80.*
 
 ## Reverse Engineering
-- [Reversing: Secrets of Reverse Engineering](Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf)
+- [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf)
 
 ## Tools
 ### Patchers
