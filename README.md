@@ -85,7 +85,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 *Used by the SNES.*
 ### 68000
 *Used by the Genesis.*
-[68000 Assembly Programming for the Sega Genesis](https://www.chibiakumas.com/68000/genesis.php) - A detailed introduction to 68000 assembly.
+* [68000 Assembly Programming for the Sega Genesis](https://www.chibiakumas.com/68000/genesis.php) - A detailed introduction to 68000 assembly.
 ### ARM
 *Used by the GBA, DS, and 3DS.*
 ### MIPS
@@ -123,14 +123,13 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Community
 ### General Communities
-* [Romhacking Dot Net (RHDN)](https://www.romhacking.net)
-* [Romhacks](https://www.romhacks.org)
-* [Romhack Hispano](https://www.romhackhispano.org)
-* [GameHacking.org](https://www.gamehacking.org)
-* [GBATemp Forums](https://www.gbatemp.net)
-* [Game Banana](https://www.gamebanana.com)
-* [r/romhacking](https://www.reddit.com/r/romhacking)
-* [r/RomHacks](https://www.reddit.com/r/RomHacks)
+* [Romhacking Dot Net (RHDN)](https://www.romhacking.net) - The main site for sharing and finding romhacks. Also contains tools and documentation.
+* [Romhacks Dot Org (RHDO)](https://www.romhacks.org) - A smaller, developing community similar to RHDN.
+* [Romhack Hispano](https://www.romhackhispano.org) - A romhacking community for Spanish speakers.
+* [GameHacking.org](https://www.gamehacking.org) - A site dedicated to storing and creating cheat codes; includes a Discord server.
+* [GBATemp Forums](https://www.gbatemp.net) - A large gaming forum with subgroups about romhacking on various consoles. There's a lot of valuable information here.
+* [Game Banana](https://www.gamebanana.com) - A place to find (and upload) all sorts of game mods.
+* [r/romhacking](https://www.reddit.com/r/romhacking) - A small subreddit about creating and playing romhacks.
 ### Game-Specific Communities
 * [Super Mario World Central](https://smwcentral.net)
 * [Metroid Construction](https://metroidconstruction.com)
