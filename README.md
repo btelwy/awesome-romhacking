@@ -2,9 +2,9 @@
 
 <!-- title -->
 
-# Awesome Romhacking
+# awesome-romhacking
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![CI](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
+[![Lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
 
 <!-- subtitle -->
 
@@ -60,13 +60,13 @@ Romhacking is the practice of editing a video game's code — located in its *re
   - [65816](#65816)
   - [ARM](#arm)
   - [MIPS](#mips)
+  - [PowerPC](#powerpc)
 - [Reverse Engineering](#reverse-engineering)
 - [Tools](#tools)
   - [Patchers](#patchers)
   - [Debugging Emulators](#debugging-emulators)
   - [Reverse Engineering Frameworks](#reverse-engineering-frameworks)
   - [Translation](#translation)
-- [Follow](#follow)
 
 <!-- CONTENT -->
 
@@ -128,6 +128,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### 65816
 ### ARM
 ### MIPS
+### PowerPC
 
 ## Reverse Engineering
 - [Reversing: Secrets of Reverse Engineering](Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf)
@@ -145,12 +146,6 @@ Romhacking is the practice of editing a video game's code — located in its *re
 - [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-(fill this in)
 
 ## Contributing
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
