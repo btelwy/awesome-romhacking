@@ -92,6 +92,8 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Tools
 ### Patchers
+* [beat](https://www.romhacking.net/utilities/893) - Creates and applies BPS patches, a format which is a spiritual successor to the IPS format.
+* [Lunar IPS](https://www.romhacking.net/utilities/240) - Creates and applies IPS patches.
 * [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
 * [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches.
 ### Debugging Emulators
