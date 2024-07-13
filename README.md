@@ -93,23 +93,23 @@ Romhacking is the practice of editing a video game's code — located in its *re
 
 ## Tools
 ### Patchers
-* [beat](https://www.romhacking.net/utilities/893) - 🪟 Creates and applies BPS patches, a format which is a spiritual successor to the IPS format.
-* [Lunar IPS](https://www.romhacking.net/utilities/240) - 🪟 Creates and applies IPS patches.
-* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
-* [XDelta](https://www.romhacking.net/utilities/598) - 🪟 An app for creating and applying .xdelta patches.
+* [beat](https://www.romhacking.net/utilities/893) - Creates and applies BPS patches, a format which is a spiritual successor to the IPS format. 🪟
+* [Lunar IPS](https://www.romhacking.net/utilities/240) - Creates and applies IPS patches. 🪟
+* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats. 🐧🍎🪟
+* [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches. 🪟
 ### Hex Editors
-* [Hex Workshop](http://www.hexworkshop.com) - 🪟💸 A hex editor with many integrated tools, but doesn't do much more than free hex editors can do.
-* [HxD](https://mh-nexus.de/en/hxd) - 🪟 A classic hex editor for disk, RAM, and file editing.
-* [ImHex](https://github.com/WerWolv/ImHex) - 🐧🍎🪟 A newer, modular hex editor for reverse engineering and programming, with features suited to romhacking.
-* [WindHex32](https://www.romhacking.net/utilities/291) - 🪟 A hex editor with romhacking features, especially ones targeted for SNES games.
+* [Hex Workshop](http://www.hexworkshop.com) - A hex editor with many integrated tools, but doesn't do much more than free hex editors can do. 🪟💸
+* [HxD](https://mh-nexus.de/en/hxd) - A classic hex editor for disk, RAM, and file editing. 🪟
+* [ImHex](https://github.com/WerWolv/ImHex) - A newer, modular hex editor for reverse engineering and programming, with features suited to romhacking. 🐧🍎🪟
+* [WindHex32](https://www.romhacking.net/utilities/291) - A hex editor with romhacking features, especially ones targeted for SNES games. 🪟
 ### Debugging Emulators
-* [BGB](https://bgb.bircd.org) - 🪟 A Game Boy and Game Boy Color debugging emulator.
-* [FCEUX](https://fceux.com/web/home.html) - 🐧🍎🪟 An NES and Famicom Disk System emulator including features for romhackers.
+* [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator. 🪟
+* [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers. 🐧🍎🪟
 * [NO$GBA](https://problemkaputt.de/gba-dev.htm) - 🪟 The "gold standard" emulator for working with GBA and DS games.
 ### Reverse Engineering Frameworks
-* [Ghidra](https://ghidra-sre.org) - 🐧🍎🪟 Free and open-source software by the National Security Agency for reverse-engineering binaries.
-* [IDA Free](https://hex-rays.com/ida-free) - 🐧🍎🪟 The free (and thus limited) version of IDA Pro, used for reverse engineering and development.
-* [IDA Pro](https://hex-rays.com/ida-pro) - 🐧🍎🪟💸 The fully-featured version of IDA Free.
+* [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries. 🐧🍎🪟
+* [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development. 🐧🍎🪟
+* [IDA Pro](https://hex-rays.com/ida-pro) - The fully-featured version of IDA Free. 🐧🍎🪟💸
 ### Translation
 * [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
 
