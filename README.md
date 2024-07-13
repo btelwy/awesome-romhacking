@@ -19,7 +19,6 @@ A list of resources for all your romhacking needs!
 <!-- description -->
 
 Romhacking is the practice of editing a video game's code — located in its *read-only memory*, or *ROM* — in order to modify the game.
-
 </div>
 
 <!-- TOC -->
@@ -96,6 +95,10 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Lunar IPS](https://www.romhacking.net/utilities/240) - Creates and applies IPS patches.
 * [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
 * [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches.
+### Hex Editors
+* [HxD](https://mh-nexus.de/en/hxd) - A classic hex editor for disk, RAM, and file editing.
+* [ImHex](https://github.com/WerWolv/ImHex) - A newer, modular hex editor for reverse engineering and programming, with features suited to romhacking.
+* [WindHex32](https://www.romhacking.net/utilities/291) - A hex editor with romhacking features, especially ones targeted for SNES games.
 ### Debugging Emulators
 * [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator.
 * [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers.
