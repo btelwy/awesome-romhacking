@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# awesome-romhacking
+# Awesome Romhacking
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Lint](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml/badge.svg)](https://github.com/btelwy/awesome-romhacking/actions/workflows/main.yml)
 
@@ -28,11 +28,10 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Where to Start](#where-to-start)
 * [Subfields](#subfields)
 * [Consoles](#consoles)
-* [Assembly (ASM) Languages](#assembly-asm-languages)
-* [Reverse Engineering](#reverse-engineering)
+* [Prominent Games](#prominent-games)
 * [Tools](#tools)
-* [Selected Games](#selected-games)
-* [Community](#community)
+* [Assembly (ASM) Languages](#assembly-asm-languages)
+* [General Communities](#general-communities)
 
 <!-- CONTENT -->
 
@@ -53,15 +52,12 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ## Consoles
 ### Game Boy
 ### Game Boy Advance
-* [GBATEK](https://problemkaputt.de/gbatek.htm) - A technical description of the GBA's hardware and software. If it's not here, you probably won't need to know it.
-* [FAST6196's GBA and DS Romhacking Guide (2016 Edition)](https://github.com/btelwy/awesome-romhacking/blob/main/Media/romhacking2016.pdf) - A thorough overview of GBA romhacking with helpful examples.
+* [GBATEK](https://problemkaputt.de/gbatek.htm) - More than everything you'll need to know about the hardware and software of the GBA, DS, and (to an extent) the 3DS.
+* [FAST6196's GBA and DS Romhacking Guide (2016 Edition)](https://github.com/btelwy/awesome-romhacking/blob/main/Media/romhacking2016.pdf) - A thorough overview of GBA and DS romhacking with helpful examples.
 ### Nintendo Entertainment System
 ### Nintendo 3DS
-* [GBATEK](https://problemkaputt.de/gbatek.htm) - Contains limited technical information of the 3DS' hardware and software.
 ### Nintendo 64
 ### Nintendo DS
-* [GBATEK](https://problemkaputt.de/gbatek.htm) - Also a technical description of the DS's hardware and software. Almost always more than comprehensive enough.
-* [FAST6196's GBA and DS Romhacking Guide (2016 Edition)](https://github.com/btelwy/awesome-romhacking/blob/main/Media/romhacking2016.pdf) - A thorough overview of DS romhacking with helpful examples.
 ### Nintendo GameCube
 ### PlayStation
 ### PlayStation 2
@@ -78,7 +74,38 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Xbox
 ### Xbox 360
 
+## Prominent Games
+### *Doom* series
+* [Doomworld](https://www.doomworld.com) - A forum for *Doom* discussion, including documentation and help with creating mods.
+### *Pokémon* series
+* [Pokecommunity Forums](https://www.pokecommunity.com) - A forum for sharing, discussing, and providing information on making Pokémon romhacks.
+* [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks) - A large subreddit for discussing and making Pokémon romhacks.
+### *Metroid* series
+* [Metroid Construction](https://metroidconstruction.com) - The hub for *Metroid* hacking and resources.
+### *Super Mario 64*
+* [Pannenkoek](https://www.youtube.com/user/pannenkoek2012) - A *Super Mario 64* YouTuber who makes in-depth technical explainer videos about the game's workings.
+* [Kaze](https://www.youtube.com/@KazeN64) - A *Super Mario 64* YouTuber who creates mods and has optimized the entire source code.
+### *Super Mario World*
+* [Super Mario World Central](https://smwcentral.net) - A community all about *Super Mario World*, but also may be relevant to other SNES hacking.
+### *Super Smash Bros.* series
+### *The Legend of Zelda: Ocarina of Time*
+
+## Tools
+### Patchers
+* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
+* [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches.
+### Debugging Emulators
+* [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator.
+* [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers.
+* [no$gba](https://problemkaputt.de/gba-dev.htm) - The "gold standard" emulator for working with GBA and DS games.
+### Reverse Engineering Frameworks
+* [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries.
+* [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development.
+### Translation
+* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
+
 ## Assembly (ASM) Languages
+* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 ### 6502
 *Used by the NES.*
 ### 65816
@@ -98,31 +125,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Z80
 *Used by the Master System and Game Gear; the Game Boy uses a modified version called GBZ80.*
 
-## Reverse Engineering
-* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
-
-## Tools
-### Patchers
-* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
-* [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches.
-### Debugging Emulators
-* [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator.
-* [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers.
-* [no$gba](https://problemkaputt.de/gba-dev.htm) - The "gold standard" emulator for working with GBA and DS games.
-### Reverse Engineering Frameworks
-* [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries.
-* [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development.
-### Translation
-* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
-
-## Selected Games
-### Super Mario 64
-### Super Mario World
-### Super Smash Bros. series
-### The Legend of Zelda: Ocarina of Time
-
-## Community
-### General Communities
+## General Communities
 * [Romhacking Dot Net (RHDN)](https://www.romhacking.net) - The main site for sharing and finding romhacks. Also contains tools and documentation.
 * [Romhacks Dot Org (RHDO)](https://www.romhacks.org) - A smaller, developing community similar to RHDN.
 * [Romhack Hispano](https://www.romhackhispano.org) - A romhacking community for Spanish speakers.
@@ -130,13 +133,6 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [GBATemp Forums](https://www.gbatemp.net) - A large gaming forum with subgroups about romhacking on various consoles. There's a lot of valuable information here.
 * [Game Banana](https://www.gamebanana.com) - A place to find (and upload) all sorts of game mods.
 * [r/romhacking](https://www.reddit.com/r/romhacking) - A small subreddit about creating and playing romhacks.
-### Game-Specific Communities
-* [Super Mario World Central](https://smwcentral.net)
-* [Metroid Construction](https://metroidconstruction.com)
-* [GBA Hacks](https://www.gbahacks.com)
-* [Pokecommunity Forums](https://www.pokecommunity.com)
-* [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks)
-* [Doomworld](https://www.doomworld.com)
 
 <!-- END CONTENT -->
 
