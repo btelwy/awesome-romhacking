@@ -59,6 +59,8 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Nintendo 3DS
 ### Nintendo 64
 ### Nintendo DS
+* [The Ultimate Nintendo DS Romhacking Guide](https://gbatemp.net/threads/the-ultimate-nintendo-ds-rom-hacking-guide.291274) - A thread on GBATemp that goes over basic DS romhacking. Note that it uses some outdated tools.
+* [Nitro Studio 2 Deluxe](https://www.romhacking.net/utilities/1639) - An all-in-one tool for editing music and sound effects in .sdat files. 🪟
 ### Nintendo GameCube
 ### PlayStation
 ### PlayStation 2
@@ -86,7 +88,9 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### *Super Mario 64*
 * [Pannenkoek](https://www.youtube.com/user/pannenkoek2012) - A *Super Mario 64* YouTuber who makes in-depth technical explainer videos about the game's workings.
 * [Kaze](https://www.youtube.com/@KazeN64) - A *Super Mario 64* YouTuber who creates mods and has optimized the entire source code.
-### *Super Mario World*
+### *Mario* series
+* [New Super Mario Bros. Editor (NSMBE)](https://nsmbhd.net/download) - The main tool for modding *New Super Mario Bros.* (DS). 🪟
+* [New Super Mario Bros. Hacking Domain (NSMBHD)](https://nsmbhd.net) - A forum for discussing everything about *New Super Mario Bros.* (DS) romhacking.
 * [Super Mario World Central](https://smwcentral.net) - A community all about *Super Mario World*, but also may be relevant to other SNES hacking.
 ### *Super Smash Bros.* series
 ### *The Legend of Zelda: Ocarina of Time*
@@ -111,7 +115,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development. 🐧🍎🪟
 * [IDA Pro](https://hex-rays.com/ida-pro) - The fully-featured version of IDA Free. 🐧🍎🪟💸
 ### Graphics Editors
-* [CrystalTile2](https://www.romhacking.net/utilities/818) - Contains many tools for DS hacking, but is also helpful as a general tile editor. 🪟
+* [Crystal Tile 2](https://www.romhacking.net/utilities/818) - Contains many tools for DS hacking, but is also helpful as a general tile editor. 🪟
 ### Translation
 * [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
 
