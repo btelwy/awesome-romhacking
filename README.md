@@ -105,11 +105,13 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Debugging Emulators
 * [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator. 🪟
 * [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers. 🐧🍎🪟
-* [NO$GBA](https://problemkaputt.de/gba-dev.htm) - 🪟 The "gold standard" emulator for working with GBA and DS games.
+* [NO$GBA](https://problemkaputt.de/gba-dev.htm) - The "gold standard" emulator for working with GBA and DS games. 🪟
 ### Reverse Engineering Frameworks
 * [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries. 🐧🍎🪟
 * [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development. 🐧🍎🪟
 * [IDA Pro](https://hex-rays.com/ida-pro) - The fully-featured version of IDA Free. 🐧🍎🪟💸
+### Graphics Editors
+* [CrystalTile2](https://www.romhacking.net/utilities/818) - Contains many tools for DS hacking, but is also helpful as a general tile editor. 🪟
 ### Translation
 * [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
 
