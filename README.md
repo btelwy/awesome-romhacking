@@ -40,6 +40,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Getting Started](https://www.romhacking.net/start) - Romhacking Dot Net's page for beginners looking to get started with the various subfields of romhacking.
 * [The Definitive Guide to Romhacking for Complete Beginners](https://github.com/btelwy/awesome-romhacking/blob/main/Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf) - A guide to romhacking that covers the basics of what romhacking is.
 ### Fundamental Concepts
+* [Big Endian vs. Little Endian](https://www.baeldung.com/cs/big-endian-vs-little-endian) - An article on the concept of endianness.
 * [Hexadecimal](https://www.youtube.com/watch?v=UCgTEzcUolk) - A YouTube video explaining number bases, binary, and hexadecimal.
 * [Introduction to Programming Logic](https://dev.to/abbeymaniak/introduction-to-programming-logic-understanding-the-basics-of-coding-64a) - A short description of the basic mindset behind programming logic.
 * [What is Debugging?](https://www.ibm.com/topics/debugging) - An explanation of debugging and the general debugging process.
