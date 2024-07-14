@@ -40,8 +40,12 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Getting Started](https://www.romhacking.net/start) - Romhacking Dot Net's page for beginners looking to get started with the various subfields of romhacking.
 * [The Definitive Guide to Romhacking for Complete Beginners](https://github.com/btelwy/awesome-romhacking/blob/main/Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf) - A guide to romhacking that covers the basics of what romhacking is.
 ### Fundamental Concepts
-* [Data Representation](https://cs61.seas.harvard.edu/site/2023/Datarep/#gsc.tab=0) - Harvard computer science course notes explaining how computers internally process data.
 * [Hexadecimal](https://www.youtube.com/watch?v=UCgTEzcUolk) - A YouTube video explaining number bases, binary, and hexadecimal.
+* [Introduction to Programming Logic](https://dev.to/abbeymaniak/introduction-to-programming-logic-understanding-the-basics-of-coding-64a) - A short description of the basic mindset behind programming logic.
+* [What is Debugging?](https://www.ibm.com/topics/debugging) - An explanation of debugging and the general debugging process.
+### Advanced Concepts
+* [Data Representation](https://cs61.seas.harvard.edu/site/2023/Datarep/#gsc.tab=0) - Harvard computer science course notes explaining how computers internally process data.
+* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 
 ## Subfields
 ### Text Editing and Translation
@@ -117,10 +121,9 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Graphics Editors
 * [Crystal Tile 2](https://www.romhacking.net/utilities/818) - Contains many tools for DS hacking, but is also helpful as a general tile editor. 🪟
 ### Translation
-* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
+* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations. 🐧🍎🪟
 
 ## Assembly (ASM) Languages
-* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 ### 6502
 *Used by the NES.*
 ### 65816
