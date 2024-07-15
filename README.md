@@ -20,6 +20,7 @@ A list of resources for all your romhacking needs!
 
 Romhacking is the practice of editing a video game's code — located in its *read-only memory*, or *ROM* — in order to modify the game.
 
+**Legend:** 🐧 = for Linux, 🍎 = for Mac, 🪟 = for Windows, 💸 = paid software
 </div>
 
 <!-- TOC -->
@@ -39,8 +40,13 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Getting Started](https://www.romhacking.net/start) - Romhacking Dot Net's page for beginners looking to get started with the various subfields of romhacking.
 * [The Definitive Guide to Romhacking for Complete Beginners](https://github.com/btelwy/awesome-romhacking/blob/main/Media/The-Definitive-Guide-to-Rom-Hacking-for-Complete-Beginners.pdf) - A guide to romhacking that covers the basics of what romhacking is.
 ### Fundamental Concepts
-* [Data Representation](https://cs61.seas.harvard.edu/site/2023/Datarep/#gsc.tab=0) - Harvard computer science course notes explaining how computers internally process data.
+* [Big Endian vs. Little Endian](https://www.baeldung.com/cs/big-endian-vs-little-endian) - An article on the concept of endianness.
 * [Hexadecimal](https://www.youtube.com/watch?v=UCgTEzcUolk) - A YouTube video explaining number bases, binary, and hexadecimal.
+* [Introduction to Programming Logic](https://dev.to/abbeymaniak/introduction-to-programming-logic-understanding-the-basics-of-coding-64a) - A short description of the basic mindset behind programming logic.
+* [What is Debugging?](https://www.ibm.com/topics/debugging) - An explanation of debugging and the general debugging process.
+### Advanced Concepts
+* [Data Representation](https://cs61.seas.harvard.edu/site/2023/Datarep/#gsc.tab=0) - Harvard computer science course notes explaining how computers internally process data.
+* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 
 ## Subfields
 ### Text Editing and Translation
@@ -58,6 +64,8 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Nintendo 3DS
 ### Nintendo 64
 ### Nintendo DS
+* [The Ultimate Nintendo DS Romhacking Guide](https://gbatemp.net/threads/the-ultimate-nintendo-ds-rom-hacking-guide.291274) - A thread on GBATemp that goes over basic DS romhacking. Note that it uses some outdated tools.
+* [Nitro Studio 2 Deluxe](https://www.romhacking.net/utilities/1639) - An all-in-one tool for editing music and sound effects in .sdat files. 🪟
 ### Nintendo GameCube
 ### PlayStation
 ### PlayStation 2
@@ -86,29 +94,38 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### *Super Mario 64*
 * [Pannenkoek](https://www.youtube.com/user/pannenkoek2012) - A *Super Mario 64* YouTuber who makes in-depth technical explainer videos about the game's workings.
 * [Kaze](https://www.youtube.com/@KazeN64) - A *Super Mario 64* YouTuber who creates mods and has optimized the entire source code.
-### *Super Mario World*
+### *Mario* series
+* [New Super Mario Bros. Editor (NSMBE)](https://nsmbhd.net/download) - The main tool for modding *New Super Mario Bros.* (DS). 🪟
+* [New Super Mario Bros. Hacking Domain (NSMBHD)](https://nsmbhd.net) - A forum for discussing everything about *New Super Mario Bros.* (DS) romhacking.
 * [Super Mario World Central](https://smwcentral.net) - A community all about *Super Mario World*, but also may be relevant to other SNES hacking.
 ### *Super Smash Bros.* series
 ### *The Legend of Zelda: Ocarina of Time*
 
 ## Tools
 ### Patchers
-* [beat](https://www.romhacking.net/utilities/893) - Creates and applies BPS patches, a format which is a spiritual successor to the IPS format.
-* [Lunar IPS](https://www.romhacking.net/utilities/240) - Creates and applies IPS patches.
-* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats.
-* [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches.
+* [beat](https://www.romhacking.net/utilities/893) - Creates and applies BPS patches, a format which is a spiritual successor to the IPS format. 🪟
+* [Lunar IPS](https://www.romhacking.net/utilities/240) - Creates and applies IPS patches. 🪟
+* [Online ROM Patcher](https://www.marcrobledo.com/RomPatcher.js) - An online app for applying patches of various formats. 🐧🍎🪟
+* [XDelta](https://www.romhacking.net/utilities/598) - An app for creating and applying .xdelta patches. 🪟
+### Hex Editors
+* [Hex Workshop](http://www.hexworkshop.com) - A hex editor with many integrated tools, but doesn't do much more than free hex editors can do. 🪟💸
+* [HxD](https://mh-nexus.de/en/hxd) - A classic hex editor for disk, RAM, and file editing. 🪟
+* [ImHex](https://github.com/WerWolv/ImHex) - A newer, modular hex editor for reverse engineering and programming, with features suited to romhacking. 🐧🍎🪟
+* [WindHex32](https://www.romhacking.net/utilities/291) - A hex editor with romhacking features, especially ones targeted for SNES games. 🪟
 ### Debugging Emulators
-* [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator.
-* [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers.
-* [no$gba](https://problemkaputt.de/gba-dev.htm) - The "gold standard" emulator for working with GBA and DS games.
+* [BGB](https://bgb.bircd.org) - A Game Boy and Game Boy Color debugging emulator. 🪟
+* [FCEUX](https://fceux.com/web/home.html) - An NES and Famicom Disk System emulator including features for romhackers. 🐧🍎🪟
+* [NO$GBA](https://problemkaputt.de/gba-dev.htm) - The "gold standard" emulator for working with GBA and DS games. 🪟
 ### Reverse Engineering Frameworks
-* [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries.
-* [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development.
+* [Ghidra](https://ghidra-sre.org) - Free and open-source software by the National Security Agency for reverse-engineering binaries. 🐧🍎🪟
+* [IDA Free](https://hex-rays.com/ida-free) - The free (and thus limited) version of IDA Pro, used for reverse engineering and development. 🐧🍎🪟
+* [IDA Pro](https://hex-rays.com/ida-pro) - The fully-featured version of IDA Free. 🐧🍎🪟💸
+### Graphics Editors
+* [Crystal Tile 2](https://www.romhacking.net/utilities/818) - Contains many tools for DS hacking, but is also helpful as a general tile editor. 🪟
 ### Translation
-* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations.
+* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) - A "general purpose game translation project manager" for making fan translations. 🐧🍎🪟
 
 ## Assembly (ASM) Languages
-* [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 ### 6502
 *Used by the NES.*
 ### 65816
