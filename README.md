@@ -80,6 +80,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### *Pokémon* series
 * [Pokecommunity Forums](https://www.pokecommunity.com) - A forum for sharing, discussing, and providing information on making Pokémon romhacks.
 * [r/PokemonROMhacks](https://www.reddit.com/r/PokemonROMhacks) - A large subreddit for discussing and making Pokémon romhacks.
+* [A Beginners Guide to Hacking Gen 3 Pokémon Games With Decomps](https://github.com/Bivurnum/decomps-resources/wiki#a-beginners-guide-to-hacking-gen-3-pok%C3%A9mon-games-with-decomps) - A guide with resources for hacking Pokémon with decomps.
 ### *Metroid* series
 * [Metroid Construction](https://metroidconstruction.com) - The hub for *Metroid* hacking and resources.
 ### *Super Mario 64*
