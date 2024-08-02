@@ -149,7 +149,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 *Used by the Master System and Game Gear; the Game Boy uses a modified version called GBZ80.*
 
 ## General Communities
-* [Romhacking Dot Net (RHDN)](https://www.romhacking.net) - The main site for sharing and finding romhacks. Also contains tools and documentation.
+* [Romhacking Dot Net (RHDN)](https://www.romhacking.net) - Used to be the main site for sharing and finding romhacks, but has shut down. Also contains tools and documentation. Everything has reportedly been preserved on the Internet Archive.
 * [Romhacks Dot Org (RHDO)](https://www.romhacks.org) - A smaller, developing community similar to RHDN.
 * [Romhack Hispano](https://www.romhackhispano.org) - A romhacking community for Spanish speakers.
 * [GameHacking.org](https://www.gamehacking.org) - A site dedicated to storing and creating cheat codes; includes a Discord server.
