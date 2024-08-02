@@ -57,6 +57,7 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Music Editing
 ### Level Editing
 ### Cheat Codes
+* [Action Replay Code Types](https://gist.github.com/Nanquitas/d6c920a59c757cf7917c2bffa76de860) - A document describing the parts and technical meanings of Action Replay codes.
 
 ## Consoles
 ### Game Boy
