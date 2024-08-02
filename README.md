@@ -45,7 +45,10 @@ Romhacking is the practice of editing a video game's code — located in its *re
 * [Introduction to Programming Logic](https://dev.to/abbeymaniak/introduction-to-programming-logic-understanding-the-basics-of-coding-64a) - A short description of the basic mindset behind programming logic.
 * [What is Debugging?](https://www.ibm.com/topics/debugging) - An explanation of debugging and the general debugging process.
 ### Advanced Concepts
+* [Binary translation](https://en.wikipedia.org/wiki/Binary_translation) - A Wikipedia page describing static binary translation, which is what static recompilations are.
 * [Data Representation](https://cs61.seas.harvard.edu/site/2023/Datarep/#gsc.tab=0) - Harvard computer science course notes explaining how computers internally process data.
+* [N64: Recompiled](https://github.com/N64Recomp/N64Recomp?tab=readme-ov-file#how-it-works) - A description of how recomps work for ROMs.
+* [Reverse Engineering](https://www.scip.ch/en/?labs.20211202) - An article about reverse engineering and decompilation, which can be applied to ROMs.
 * [Reversing: Secrets of Reverse Engineering](https://github.com/btelwy/awesome-romhacking/blob/main/Media/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf) - A book about practices, strategies, and rationale for reverse engineering.
 
 ## Subfields
