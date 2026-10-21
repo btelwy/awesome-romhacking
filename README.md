@@ -79,6 +79,9 @@ Romhacking is the practice of editing a video game's code — located in its *re
 ### Sega Game Gear
 ### Sega Genesis
 ### Sega Master System
+
+* [Power Strike teardown](https://github.com/noema-lands/power-strike-teardown) - Reverse-engineering notes and disassembly for *Power Strike* (Master System, 1991): boot kernel, YM2413+PSG sound engine, RLE compressor, and an in-place tile reskin.
+
 ### Sega Saturn
 ### Super Nintendo Entertainment System
 ### Wii
